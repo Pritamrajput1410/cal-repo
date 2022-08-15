@@ -1,3 +1,3 @@
-# cal-repo
 
-calculator using tkinter
+
+simple calculator using tkinter
